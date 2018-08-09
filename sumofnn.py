@@ -1,6 +1,6 @@
 num=int(input(""))
 if num<0:
-	print("")
+	print("enter a positive number")
 else:
    sum = 0
    while(num > 0):
