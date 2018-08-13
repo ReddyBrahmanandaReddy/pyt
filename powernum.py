@@ -1,2 +1,2 @@
-a=2**3
-print(a,end="")
+a,b=map(int,input().split())
+print(a**b,end="")
